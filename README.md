@@ -11,7 +11,7 @@ If you want to look at the engine itself works, both text_adventure_engine files
 <h3>Run Text Adventure</h3>
 
 <h3>Create Your Own Text Adventures</h3>
-Look at fate_of_ashborne.py for an example text adventure using many of the engines features.<br>
+Look at fate_of_ashborne.py for an example text adventure using many of the engines features.<br><br>
 
 At the start of a text adventure file, import the GUI and Engine. Create classes in the middle. At the end of the file run the gui.start_engine() command. Run the text adventure from the created file.
 
